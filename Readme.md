@@ -6,8 +6,8 @@
 
 整个平台包括前台和后台两个部分。
 
-- 前台功能包括：首页、房间详情页、订单中心、用户中心模块。
-- 后台功能包括：总览、订单管理、房间管理、房间分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
+- 前台功能包括：首页、客房详情页、订单中心、用户中心模块。
+- 后台功能包括：总览、订单管理、客房管理、房间分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
 
 ### 演示地址
@@ -68,12 +68,12 @@ npm run serve
 
 首页
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_hotel/master/server/upload/img/a.png)
 
 
 后台页面
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_hotel/master/server/upload/img/b.png)
 
 
 
